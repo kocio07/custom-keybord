@@ -19,3 +19,9 @@ and later I was assigning footprints :
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb147fde-3657-4150-b43d-d3fedb225210" />
 
 I have a little problem with this encoder but tomorrow I'm gonna check one by one these footprints. I think at least one is correct... right?
+
+Day 3: 6th august 2026
+Worktime: 1h 22m
+So today i made these footprints ( i mean i dont really care about these enocder warnings lol ( i hope it wont destroy anything :O)) and started making layout. Didint do much.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd9fbc7f-7353-430d-9e83-f9a21acb3360" />
+
