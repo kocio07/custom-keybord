@@ -24,4 +24,8 @@ Day 3: 6th august 2026
 Worktime: 1h 22m
 So today i made these footprints ( i mean i dont really care about these enocder warnings lol ( i hope it wont destroy anything :O)) and started making layout. Didint do much.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd9fbc7f-7353-430d-9e83-f9a21acb3360" />
+Day 4: 7th august 2026 
+Worktime: 1h 47m
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4efd540d-96c5-4869-a7c1-603b4c15b2be" />
+Today i finished PCB and idk if its even good lol i have to check these larger keys like shift and stuff coz im not sure if its right. Added also diodes and stabilizers.
 
